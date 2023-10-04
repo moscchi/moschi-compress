@@ -12,7 +12,6 @@ Para instalar y usar el script en cualquier ubicación del sistema, sigue estos 
    ```bash
    git clone https://github.com/tu-usuario/talent-comprimir.git
 
-```
 2. Navega al directorio moschi-compress
 
 	cd moschi-compress
